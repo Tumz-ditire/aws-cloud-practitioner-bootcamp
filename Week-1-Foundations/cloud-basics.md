@@ -3,11 +3,11 @@ Cloud computing isn’t just “borrowing someone else’s computer.” It marks
 
 ## IaaS vs PaaS vs SaaS
 
-**| Layer | Description | Example Use | Responsibility Split |**
+| Layer | Description | Example Use | Responsibility Split |
 |---------|-------------|---------|---------|
-| **IaaS (Infrastructure as a Service)** | Renting raw computing resources like servers, storage, and networking. You manage the software and applications yourself. | Hosting a company’s website on virtual machines. | Provider manages hardware; you manage operating systems, apps, and data. |
-| **PaaS (Platform as a Service)** | Renting a ready-made environment to build and run apps without worrying about servers or operating systems. | Developers building a custom app using a cloud platform. | Provider manages hardware + OS + runtime; you manage the app and data. |
-| **SaaS (Software as a Service)** | Renting finished software that runs in the cloud. You just log in and use it. | Using Gmail, Microsoft 365, or Netflix. | Provider manages everything; you just use the software. |
+| **IaaS (Infrastructure as a Service)** | Renting raw computing resources like servers, storage, and networking. You manage the software and applications yourself. | Hosting a company's website on [...] | You manage applications, data, runtime, middleware, OS; Provider manages virtualization, servers, storage, networking |
+| **PaaS (Platform as a Service)** | Renting a ready-made environment to build and run apps without worrying about servers or operating systems. | Developers building a custom app using a cloud pla[...] | You manage applications and data; Provider manages everything else |
+| **SaaS (Software as a Service)** | Renting finished software that runs in the cloud. You just log in and use it. | Using Gmail, Microsoft 365, or Netflix. | Provider manages everything; you just use the application |
 
 ## Cloud vs On-Premise
 
@@ -45,4 +45,4 @@ It’s essentially the difference between **owning and maintaining your own car*
 ### Operational Expenditure (OpEx): 
 - Similar to the Cloud, you Pay-as-you-go (OpEx). No upfront investment—you’re billed only for what you use, like electricity or water.
 
----
+--
