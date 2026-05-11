@@ -14,6 +14,6 @@ AZs are linked with private, low-latency networks so they can work together seam
 ## Basic idea of global infrastructure?
 - AWS Global Infrastructure is the worldwide network of advanced facilities and systems that Amazon has built to run its cloud. It’s the backbone that makes it possible for AWS to deliver services anywhere in the world with speed, reliability, and strong security.
 
-- Think of it like a global power grid: AWS has set up interconnected hubs across continents so businesses can plug in and get consistent, high-quality service—whether they’re in New York, Cape Town, or Tokyo.
+- Think of it like a global power grid: AWS has set up interconnected hubs across continents so businesses can plug in and get consistent, high-quality service -whether they’re in New York, Cape Town, or Tokyo.
 
 ---
