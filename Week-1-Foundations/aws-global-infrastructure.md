@@ -8,8 +8,7 @@
 
 ## Why AWS uses multiple AZs?
 - Each AZ is in a different location to avoid shared risks. They have their own power, cooling, and networking, so one outage doesn’t affect the others.
-AZs are linked with private, low-latency networks so they can work together seamlessly. An example is the Cape Town Region (af-south-1), you’ll see AZs like:
-** af-south-1a ** and ** af-south-1b **. Each is a distinct data center setup within that Region. AZs are reliable because your applications stay online even if one AZ has issues. Problems in one AZ don’t spill over into others.
+AZs are linked with private, low-latency networks so they can work together seamlessly. An example is the Cape Town Region (af-south-1), you’ll see AZs like: (af-south-1a) and (af-south-1b). Each is a distinct data center setup within that Region. AZs are reliable because your applications stay online even if one AZ has issues. Problems in one AZ don’t spill over into others.
 
 
 ## Basic idea of global infrastructure?
