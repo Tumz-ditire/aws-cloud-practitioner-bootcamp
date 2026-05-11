@@ -15,19 +15,13 @@ Cloud computing isn’t just “borrowing someone else’s computer.” It marks
 - **On-Premise**: Buying and setting up servers is slow. It can take weeks or months to order hardware, wait for delivery, and install everything.  
 - **Cloud (AWS/GCP/Azure)**: You can spin up resources in minutes through a web console, command line, or automated scripts. It’s like flipping a switch instead of waiting for a shipment.
 
----
-
 ### 2. Scaling
 - **On-Premise**: If your business grows, you need to physically add more hardware—extra RAM, storage, or servers. This is manual and time-consuming.  
 - **Cloud**: Scaling is elastic. The system automatically adds or removes resources based on demand. If traffic spikes, the cloud expands instantly; when demand drops, it shrinks back down.
 
----
-
 ### 4. Maintenance
 - **On-Premise**: You’re responsible for everything—hardware upkeep, cooling systems, power supply, and fixing failures.  
 - **Cloud**: The provider handles the physical infrastructure. You focus on running your applications and workloads, not the plumbing behind them.
-
----
 
 ## Key Takeaway
 - **On-Premise** = slower, rigid, high-risk, but full control.  
@@ -45,4 +39,4 @@ It’s essentially the difference between **owning and maintaining your own car*
 ### Operational Expenditure (OpEx): 
 - Similar to the Cloud, you Pay-as-you-go (OpEx). No upfront investment—you’re billed only for what you use, like electricity or water.
 
---
+---
