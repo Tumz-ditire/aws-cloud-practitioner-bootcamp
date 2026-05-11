@@ -1,6 +1,8 @@
 ## What is Cloud Computing?
 Cloud computing isn’t just “borrowing someone else’s computer.” It marks a fundamental change in how businesses build and run their technology. Instead of investing heavily in fixed hardware that can’t easily adapt, companies now tap into flexible, on‑demand resources that scale up or down as needed. In other words, technology shifts from being a costly, rigid asset to a utility that adjusts in real time to match business demand. This explains why Cloud computing is the on-demand delivery of compute power, storage, databases, networking, and applications over the internet with pay-as-you-go pricing.
 
+---
+
 ## IaaS vs PaaS vs SaaS
 
 | Layer | Description | Example Use | Responsibility Split |
@@ -8,6 +10,8 @@ Cloud computing isn’t just “borrowing someone else’s computer.” It marks
 | **IaaS (Infrastructure as a Service)** | Renting raw computing resources like servers, storage, and networking. You manage the software and applications yourself. | Hosting a company's website on virtual machines | You manage applications, data, runtime, middleware, OS; Provider manages virtualization, servers, storage, networking. |
 | **PaaS (Platform as a Service)** | Renting a ready-made environment to build and run apps without worrying about servers or operating systems. | Developers building a custom app using a cloud platform. | You manage applications and data; Provider manages everything else. |
 | **SaaS (Software as a Service)** | Renting finished software that runs in the cloud. You just log in and use it. | Using Gmail, Microsoft 365, or Netflix. | Provider manages everything; you just use the application. |
+
+---
 
 ## Cloud vs On-Premise
 
