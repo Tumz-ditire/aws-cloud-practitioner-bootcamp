@@ -7,4 +7,5 @@
    - Ransomware is a threat hackers can use to extort money from the organisation.
      
 3. Did AWS stop you from making the bucket public? 
-4. Who is responsible for securing bucket access? 
+4. Who is responsible for securing bucket access?
+   - The user/owner of the account.
