@@ -4,7 +4,7 @@
 
 
 ## What is an Availability Zone?
-- An Availability Zone is basically one or more data centers inside an AWS Region. Think of it as separate “buildings” within the same geographic hub, each designed to run independently but connected with super-fast private links. Therefore Inside that city, AWS has several data centers (called Availability Zones), which are like different “neighborhoods.” By spreading resources across these neighborhoods, AWS ensures reliability, speed, and backup options if one data center has issues.
+- An Availability Zone is basically one or more data centers inside an AWS Region. Think of it as separate “buildings” within the same geographic hub, each designed to run independently but connected with super-fast private links. Therefore Inside that city, AWS has several data centers (called Availability Zones), which are like different “neighborhoods.” By spreading resources across these "neighborhoods", AWS ensures reliability, speed, and backup options if one data center has issues.
 
 
 
