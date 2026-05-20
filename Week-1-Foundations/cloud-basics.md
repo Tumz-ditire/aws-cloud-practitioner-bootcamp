@@ -1,5 +1,5 @@
 ## What is Cloud Computing?
-Cloud computing isn’t just “borrowing someone else’s computer.” It marks a fundamental change in how businesses build and run their technology. Instead of investing heavily in fixed hardware that can’t easily adapt, companies now tap into flexible, on‑demand resources that scale up or down as needed. In other words, technology shifts from being a costly, rigid asset to a utility that adjusts in real time to match business demand. This explains why Cloud computing is the on-demand delivery of compute power, storage, databases, networking, and applications over the internet with pay-as-you-go pricing.
+Cloud computing is not just like “borrowing someone else’s computer.” It marks a fundamental change in how businesses build and run their technology. Instead of investing heavily in fixed hardware that can’t easily adapt, companies now tap into flexible, on‑demand resources that scale up or down as needed. In other words, technology shifts from being a costly, rigid asset to a utility that adjusts in real time to match business demand. This explains why Cloud computing is the on-demand delivery of compute power, storage, databases, networking, and applications over the internet with pay-as-you-go pricing.
 
 ---
 
